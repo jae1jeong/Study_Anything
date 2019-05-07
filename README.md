@@ -1,2 +1,2 @@
 # Python-study
-commit today I learned
+Commit Today I learned
